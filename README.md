@@ -4,7 +4,7 @@ I am a PhD candidate, Computer Science & Engineering at NJIT. My research intere
 
 - 🌱 I’m currently learning efficient software development for real-time applications.
 - 👯 I’m looking for a SWE/ML Full-time opportunity!
-- 📫 How to reach me: You can reach me at my <a href="https://www.linkedin.com/in/hg20/">Linkedin</a>!
+- 📫 How to reach me: You can reach me at my <a href="https://www.linkedin.com/in/hg20/">LinkedIn</a>!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hadi-ghnd&label=Profile%20views&color=0e75b6&style=flat" alt="ankitshah009" /> </p>
 
