@@ -6,7 +6,7 @@ I am a PhD candidate, Computer Science & Engineering at NJIT. My research intere
 - 👯 I’m looking for a SWE/ML Full-time opportunity.
 - 📫 You can reach me at my <a href="https://www.linkedin.com/in/hg20/">LinkedIn</a>!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hadi-ghnd&label=Profile%20views&color=0e75b6&style=flat" alt="ankitshah009" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hadi-ghnd&label=Profile%20views&color=0e75b6&style=flat" alt="hadi-ghnd" /> </p>
 
 <!-- <p align="left"> <a href="https://twitter.com/ghahremannezhad" target="blank"><img src="https://img.shields.io/twitter/follow/ghahremannezhad?logo=twitter&style=for-the-badge" alt="ghahremannezhad" /></a> </p> -->
 
