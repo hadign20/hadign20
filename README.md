@@ -20,9 +20,3 @@ I am a PhD candidate, Computer Science & Engineering at NJIT. My research intere
 </p>
 
 
-<p align="left">
-<a href="https://github.com/hadi-ghnd">
- <img src="https://github-readme-stats.vercel.app/api?username=hadi-ghnd&show_icons=true&hide=stars&hide_border=true" alt="Hadi's GitHub Stats" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadi-ghnd&layout=compact&hide_border=true" alt="Hadi's Language Stats" />
-</a>
-</p>
